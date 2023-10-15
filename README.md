@@ -11,4 +11,4 @@ performance across episodes.
 
 Static_Epsilon_CartPole_5000_Episodes.ipynb implements the same code but for 5000 episodes rather than just 500.
 
-Adaptive Epsilon CartPole.ipynb implements the same Q-Learning agent but with an adaptive 𝜖 and 𝛼.
+Adaptive_Epsilon_CartPole.ipynb implements the same Q-Learning agent but with an adaptive 𝜖 and 𝛼.
