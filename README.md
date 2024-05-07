@@ -1,7 +1,7 @@
 # Gym Cartpole
 CartPole is a structure where a pole is attached to the cart and the cart is free to slide across a frictionless surface. By sliding the cart left or right, the CartPole is balanced.
 
-This repo aimt to create a Q-Learning agent which:
+This repo aims to create a Q-Learning agent which:
 - Uses the openAI gym environment “CartPole-v1”.
 - Uses an 𝜖-greedy policy for exploration with 𝜖 = 0.05.
 - Uses a learning rate of 𝛼 = 0.1.
